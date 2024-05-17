@@ -73,9 +73,6 @@
                         <argument>--runtime-image</argument>
                         <argument>win</argument>
                     </arguments>
-                    <environmentVariables>
-                        <LANG>en_US</LANG>
-                    </environmentVariables>
                 </configuration>
             </plugin>
         </plugins>
